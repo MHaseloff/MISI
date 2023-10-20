@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True land_terminating_v01.ipynb
+web: voila --no-browser land_terminating_v01.ipynb
